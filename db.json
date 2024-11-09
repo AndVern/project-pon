@@ -1,11 +1,5 @@
 {
     "users": [
-        {
-            "id": 6,
-            "name": "Adolf",
-            "surname": "Adolfovich",
-            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHvNHAuvr9uoi-5SHuGGeuvk6flM31Vbyyw&s",
-            "balance" : 1500
-        }
+        
     ]
 }
