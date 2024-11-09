@@ -6,7 +6,13 @@
             "surname": "JuJu",
             "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrawlstars.fandom.com%2Fru%2Fwiki%2F%25D0%2594%25D0%25B6%25D1%2583%25D0%25B4%25D0%25B6%25D1%2583&psig=AOvVaw0IeJXVHDVeT7Ow9eEddsKp&ust=1731249590618000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC6iLm9z4kDFQAAAAAdAAAAABAE" ,
             "balance": 1400
+        },
+        {
+            "id":5,
+            "name":"beler",
+            "surname":"meler",
+            "photo_url":"https://raw.githubus...",
+            "balance": 1488
         }
-        
     ]
 }
