@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id":5,
+            "name":"beler",
+            "surname":"meler",
+            "photo_url":"https://raw.githubus...",
+            "balance": 1488
+        }
     ]
 }
