@@ -27,6 +27,13 @@
             "surname":"meler",
             "photo_url":"https://raw.githubus...",
             "balance": 1488
+        },
+        {
+            "id":6,
+            "name":"Adolf",
+            "surname":"loxovich",
+            "photo_url":"https://raw.githubus...",
+            "balance": 1488
         }
     ]
 }
